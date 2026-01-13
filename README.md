@@ -1,6 +1,6 @@
 # library management application
-# Loan Management Application  
-## Microservices-Based Architecture
+## Loan Management Application  
+### Microservices-Based Architecture
 
 **Author:** Mouad Chafiki  
 
